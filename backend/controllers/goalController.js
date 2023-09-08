@@ -1,5 +1,5 @@
 // npm i express -async -handler (express async handler)
-const asyncHandler = require('express-async-handler')
+const asyncHandler = require('express-async-handler');
 
 const Goal = require('../models/goalModel');
 
